@@ -28,7 +28,7 @@ class Theme extends BaseV1\Theme{
             'home: welcome' => "<p align='justify'>Rio Grande é uma cidade reconhecida por sua diversidade cultural, representada em suas festas populares, 
 				seus prédios históricos, seu patrimônio natural, suas comunidades tradicionais e sua intensa produção cultural no 
 				artesanato, música, teatro, dança, entre tantas outras manifestações artísticas. Para dar visibilidade para 
-				a essa diversidade, a Prefeitura Municipal do Rio Grande, através da Secretaria de Município de Cultura criou o 
+				essa diversidade, a Prefeitura Municipal do Rio Grande, através da Secretaria de Município de Cultura criou o 
 				projeto <b>Mapa da Cultura</b>, uma plataforma colaborativa para mapeamento de pessoas, coletivos, grupos, entidades, 
 				editais, projetos, espaços e iniciativas independentes de todas as manifestações culturais. Participe cadastrando-se 
 				e contribua para a construção coletiva dessa importante ferramenta.</p>",

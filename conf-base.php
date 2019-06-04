@@ -10,7 +10,7 @@ return [
     'maps.geometryFieldQuery' => "ST_SimplifyPreserveTopology(geom, 0.001)",
 //
 //    // zoom padrão do mapa da busca
-    'maps.zoom.default' => 13,
+    'maps.zoom.default' => 14,
 //
 //    // zoom do mapa da single do agente quando este define a posição como aproximada
     'maps.zoom.approximate' => 14,
