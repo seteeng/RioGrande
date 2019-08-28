@@ -3673,7 +3673,9 @@ table.contratos td {
     padding: 0.5rem 0;
     background: #e2e2e2;
     border-radius: 2px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); }
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    max-height: 400px;
+    overflow-y: auto; }
     .dropdown .submenu-dropdown:before {
       content: "";
       position: absolute;
