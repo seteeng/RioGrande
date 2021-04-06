@@ -1,6 +1,6 @@
 <?php
 namespace RioGrande;
-//@import '../../../../BaseV1/assets/css/sass/main';
+//@import '../BaseV1/assets/css/sass/main';
 use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
@@ -57,7 +57,8 @@ class Theme extends BaseV1\Theme{
 
     protected function _publishAssets() {
         $this->jsObject['assets']['logo-instituicao'] = $this->asset('img/logo-instituicao.png', false);
-//	$this->jsObject['assets']['fundo'] = $this->asset('img/fundo.png', false);
+	$this->asset('img/fundo.png', false);
+	$this->jsObject['assets']['fundo'] = $this->asset('img/fundo.png', false);
     }
 
 }

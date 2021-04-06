@@ -27,3 +27,10 @@ _home.scss
 #home-developers {
      background: #FA8072;  //#96161A
  }
+.entities-menu li {
+	width:10rem;	
+}
+#home-watermark {
+	background-image:url('../img/fundo.png');
+	background-position:bottom center;
+}
